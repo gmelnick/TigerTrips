@@ -283,8 +283,8 @@ footer {
 
 }
 .profileImage {
-  width: 80px;
-  height: 80px;
+  width: 20%;
+  height: 20%;
   overflow: hidden;
 }
 .mainText {
