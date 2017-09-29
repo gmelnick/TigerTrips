@@ -275,12 +275,9 @@ footer {
       color: rgba(255, 255, 255, 0.3); }
       footer ul li a:hover, footer ul li a:focus, footer ul li a:active, footer ul li a.active {
         text-decoration: none; }
-.deliverables {
-  float: right;
 
-}
-.deliverable {
-  
+.mainPage {
+  margin-top: 56px;
 }
 .profileLeft {
   float: left;
@@ -302,9 +299,7 @@ footer {
 .mainText {
   text-align: center; 
 }
-.container {
 
-}
 .bg-primary {
   background: #fdcc52;
   background: -webkit-linear-gradient(#fdcc52, #fdc539);
