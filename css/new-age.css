@@ -312,10 +312,10 @@ footer {
 }
 
 #finalPrototype {
-  background="img/blueprint.jpg";
+  background-image: "img/blueprint.jpg";
 }
 #userResearchDesign {
-  background="img/research.jpg"
+  background-image: url("img/research.jpg");
 }
 
 
