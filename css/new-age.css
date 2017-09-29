@@ -311,19 +311,24 @@ footer {
   padding-bottom: 5%;
   padding-right: 5%;
 }
+
 #projectProposal {
   background-color: orange;
+  opacity: 0.5;
 }
 #userResearchDesign {
   background-color: blue;
+  opacity: 0.5;
 }
 #prototyping {
   background-color: orange;
+  opacity: 0.5;
   /*background-image: url("../img/blueprint.jpg");
   background-repeat: no-repeat;*/
 }
-#userResearchDesign {
+#finalPrototype {
   background-color: blue;
+  opacity: 0.5;
   /*background-image: url("../img/research.jpg");
   background-repeat: no-repeat;*/
 }
