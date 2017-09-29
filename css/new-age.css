@@ -303,6 +303,14 @@ footer {
   height: 80%;
   overflow: hidden;
 }
+.name {
+  padding-top: 5%;
+  padding-bottom: 5%;
+}
+.bio {
+  padding-top: 5%;
+  padding-bottom: 5%;
+}
 
 
 .bg-primary {
