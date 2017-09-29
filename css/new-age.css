@@ -311,6 +311,10 @@ footer {
   padding-bottom: 5%;
 }
 
+#finalPrototype {
+  background="img/bluepring.jpg";
+}
+
 
 .bg-primary {
   background: #fdcc52;
