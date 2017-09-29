@@ -309,13 +309,16 @@ footer {
 }
 .bio {
   padding-bottom: 5%;
+  padding-right: 5%;
 }
 
 #finalPrototype {
-  background-image: "../img/blueprint.jpg";
+  background-image: url("../img/blueprint.jpg");
+  background-repeat: no-repeat;
 }
 #userResearchDesign {
   background-image: url("../img/research.jpg");
+  background-repeat: no-repeat;
 }
 
 
