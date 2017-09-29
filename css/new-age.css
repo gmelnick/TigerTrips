@@ -297,6 +297,9 @@ footer {
   margin-left: 30px;
   margin-right: 30px;
 }
+.container {
+  
+}
 .bg-primary {
   background: #fdcc52;
   background: -webkit-linear-gradient(#fdcc52, #fdc539);
