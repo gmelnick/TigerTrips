@@ -294,8 +294,8 @@ footer {
   overflow: hidden;
 }
 .mainText {
-  margin-left: 30px;
-  margin-right: 30px;
+  margin: 10%;
+  text-align: center; 
 }
 .container {
   margin: 10%;
