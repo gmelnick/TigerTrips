@@ -279,6 +279,13 @@ footer {
 .mainPage {
   margin-top: 56px;
 }
+.mainText {
+  text-align: center; 
+  padding-top: 5%;
+  padding-bottom: 5%;
+  padding-left: 10%;
+  padding-right: 10%;
+}
 .profileLeft {
   float: left;
   width: 40%;
@@ -296,9 +303,7 @@ footer {
   height: 80%;
   overflow: hidden;
 }
-.mainText {
-  text-align: center; 
-}
+
 
 .bg-primary {
   background: #fdcc52;
