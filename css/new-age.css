@@ -275,7 +275,13 @@ footer {
       color: rgba(255, 255, 255, 0.3); }
       footer ul li a:hover, footer ul li a:focus, footer ul li a:active, footer ul li a.active {
         text-decoration: none; }
+.deliverables {
+  float: right;
 
+}
+.deliverable {
+  
+}
 .profileLeft {
   float: left;
   width: 40%;
@@ -287,7 +293,6 @@ footer {
   width: 40%;
   margin-right: 10%;
   margin-bottom: 0.5em;
-
 }
 .profileImage {
   width: 80%;
