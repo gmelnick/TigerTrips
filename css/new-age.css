@@ -311,14 +311,21 @@ footer {
   padding-bottom: 5%;
   padding-right: 5%;
 }
-
-#prototyping {
-  background-image: url("../img/blueprint.jpg");
-  background-repeat: no-repeat;
+#projectProposal {
+  background-color: orange;
 }
 #userResearchDesign {
-  background-image: url("../img/research.jpg");
-  background-repeat: no-repeat;
+  background-color: blue;
+}
+#prototyping {
+  background-color: orange;
+  /*background-image: url("../img/blueprint.jpg");
+  background-repeat: no-repeat;*/
+}
+#userResearchDesign {
+  background-color: blue;
+  /*background-image: url("../img/research.jpg");
+  background-repeat: no-repeat;*/
 }
 
 
