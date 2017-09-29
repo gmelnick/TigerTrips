@@ -311,7 +311,9 @@ footer {
   padding-bottom: 5%;
   padding-right: 5%;
 }
-
+#aboutUs {
+  background-color: #ffffff;
+}
 #projectProposal {
   background-color: #eabb3a;
 }
