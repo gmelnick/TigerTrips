@@ -315,18 +315,18 @@ footer {
   background-color: #ffffff;
 }
 #projectProposal {
-  background-color: #eabb3a;
+  background-color: #dfb275;
 }
 #userResearchDesign {
-  background-color: #7aa9f4;
+  background-color: #ffa352;
 }
 #prototyping {
-  background-color: #eabb3a;
+  background-color: #dfb275;
   /*background-image: url("../img/blueprint.jpg");
   background-repeat: no-repeat;*/
 }
 #finalPrototype {
-  background-color: #7aa9f4;
+  background-color: #ffa352;
   /*background-image: url("../img/research.jpg");
   background-repeat: no-repeat;*/
 }
