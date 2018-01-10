@@ -11,6 +11,7 @@ body {
 body {
   font-family: 'Muli', 'Helvetica', 'Arial', 'sans-serif'; }
 
+/*
 a {
   color: #fdcc52;
   -webkit-transition: all .35s;
@@ -18,7 +19,7 @@ a {
   transition: all .35s; }
   a:hover, a:focus {
     color: #fcbd20; }
-
+*/
 hr {
   max-width: 100px;
   margin: 25px auto 0;
@@ -330,16 +331,16 @@ footer {
   /*background-image: url("../img/research.jpg");
   background-repeat: no-repeat;*/
 }
-a.link:link {
+a.gp:link {
   color: #6da5ff;
 }
-a.link:visted {
+a.gp:visted {
   color: #4190af;
 }
-a.link:hover {
+a.gp:hover {
   color: #41af97;
 }
-a.link:active {
+a.gp:active {
   color: #021e7a;
 }
 
