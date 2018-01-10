@@ -333,6 +333,9 @@ footer {
 .link:link {
   color: #6da5ff;
 }
+.link:visted {
+  color: #6da5ff;
+}
 .link:hover {
   color: #41af97;
 }
