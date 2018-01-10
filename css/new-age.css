@@ -330,13 +330,13 @@ footer {
   /*background-image: url("../img/research.jpg");
   background-repeat: no-repeat;*/
 }
-a:link {
+.link:link {
   color: #6da5ff;
 }
-a:hover {
+.link:hover {
   color: #41af97;
 }
-a:active {
+.link:active {
   color: #021e7a;
 }
 
