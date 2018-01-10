@@ -330,6 +330,15 @@ footer {
   /*background-image: url("../img/research.jpg");
   background-repeat: no-repeat;*/
 }
+a:link {
+  color: #6da5ff;
+}
+a:hover {
+  color: #41af97;
+}
+a:active {
+  color: #021e7a;
+}
 
 
 .bg-primary {
